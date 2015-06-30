@@ -1,0 +1,17 @@
+<?php
+// /**
+//  * @file
+//  * Hook implementations for Drupal 8 Layout module.
+//  */
+
+// use \Drupal\drupal8layout\Plugin\Layout;
+// use \Drupal\layout_plugin\Plugin\Layout\LayoutPluginManagerInterface;
+// /**
+//  * Implements hook_theme().
+//  */
+function drupal8layout_theme() {
+  $theme['naked'] = [
+    'template'  =>  'naked'
+  ];
+  return $theme;
+}
