@@ -4,5 +4,4 @@ description: 'Tutorial for drupal 8 learner on how to register layout plugins.'
 core: 8.x
 package: Layout
 dependencies:
-  - page_manager
   - layout_plugin

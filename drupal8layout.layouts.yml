@@ -1,0 +1,8 @@
+onecolumn:
+  label: One Column
+  category: Drupal 8 Learner Layouts
+  path: plugins/layouts/onecolumn
+  template: onecolumn
+  regions:
+    onecolumn:
+      label: Main Content

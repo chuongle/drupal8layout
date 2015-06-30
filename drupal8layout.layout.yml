@@ -1,8 +1,0 @@
-naked:
-  label: Naked Layout
-  category: Layout
-  path: plugins/layouts/naked
-  template: naked
-  regions:
-    main:
-      label: Main Content
